@@ -4,9 +4,9 @@ git status   kstuge inch popoxutyunner e erel
 
 git add  . kam * kavelacne  fayler@
 
-git commit -m "leyli"  inch anun
+git commit -m "leyli"  avelacrac faylerin anun kuda
 
-git push -u origin  branchi anun@
+git push -u origin  branchi anun@ sik fayler@ kqce git
 
 git branch kstuge vor branchi vra e
 
