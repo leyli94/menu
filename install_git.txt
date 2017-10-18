@@ -1,0 +1,15 @@
+git init
+
+git status   kstuge inch popoxutyunner e erel
+
+git add  . kam * kavelacne  fayler@
+
+git commit -m "leyli"  inch anun
+
+git push -u origin  branchi anun@
+
+git branch kstuge vor branchi vra e
+
+git branch name ksarqe branch
+
+git checkout branchi name
